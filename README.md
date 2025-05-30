@@ -1,6 +1,8 @@
 # Meshtastic-iot-alert system project
 
 Description: An off-grid, decentralized environmental monitoring system using ESP32, LoRa, and Meshtastic. Ideal for rural or remote deployment without internet or cellular access.
+
+
 /sensor-node/
 
 main.ino – Sensor node code
